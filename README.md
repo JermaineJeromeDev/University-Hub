@@ -1,10 +1,5 @@
 # 🎓 UniversityHub - Django Modeling Project
 
-[![Django Version](https://www.djangoproject.com)
-[![Python Version](https://www.python.org)
-
----
-
 ## 📑 Table of Contents / Inhaltsverzeichnis
 *   [English Version](#english-version-🇬🇧)
     *   [Project Overview](#project-overview)
