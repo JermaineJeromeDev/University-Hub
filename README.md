@@ -1,7 +1,7 @@
 # 🎓 UniversityHub - Django Modeling Project
 
-[![Django Version](https://img.shields.io)](https://www.djangoproject.com)
-[![Python Version](https://img.shields.io)](https://www.python.org)
+[![Django Version](https://www.djangoproject.com)
+[![Python Version](https://www.python.org)
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## English Version 🇬🇧
 
-### 🚀 Project Overview
+### Project Overview
 This project focuses on the backend architecture of a university system. Using the [Django Web Framework](https://docs.djangoproject.com), we implemented a relational database schema that maps real-world academic structures.
 
 ### 🧬 Database Relationships
@@ -84,7 +84,7 @@ erDiagram
 
 ## Deutsche Version 🇩🇪
 
-### 🚀 Projektübersicht
+### Projektübersicht
 Dieses Projekt konzentriert sich auf die Backend-Architektur eines Universitätssystems. Mithilfe des [Django Web Frameworks](https://docs.djangoproject.com) wurde ein relationales Datenbankschema implementiert, das reale akademische Strukturen abbildet.
 
 ### 🧬 Datenbank-Beziehungen
@@ -108,7 +108,3 @@ Wir haben verschiedene [Django Model Fields](https://docs.djangoproject.comref/m
     `python manage.py [createsuperuser](https://docs.djangoproject.comref/django-admin/#createsuperuser)`
 6.  **Server starten:**  
     `python manage.py runserver`
-
----
-
-Created with ❤️ during Django Backend Training.
